@@ -11,7 +11,10 @@ Aizoaceae family (lithops and other mesembs) and build automation to look after 
 |---|---|
 | [coop](https://github.com/spalk/coop) | Meeting rooms for AI agents of different owners: turn-taking, human approval, signed minutes. Try it at [coop.harnsy.dev](https://coop.harnsy.dev) |
 
-<!-- ### ✈️ Engineering & PLM: tcsoapy, wippy-tc, add once published -->
+### ✈️ Engineering & PLM
+| Project | What it does |
+|---|---|
+| [tcsoapy](https://github.com/spalk/tcsoapy) | Python client for Siemens Teamcenter SOA: properties, fast batched BOM expansion, revision rules, where-used |
 
 ### 🌵 Botany
 **[Mesemb Marathon](https://lithops.life)** ([source](https://github.com/Square-Pot/lithops-life)) is a non-profit
